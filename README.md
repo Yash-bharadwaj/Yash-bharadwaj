@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Yash-bharadwaj
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Js and version control
+- 👋 Hi, I’m Yashwanth Bharadwaj
+- 👀 I’m  Full Stack Developer (MERN)
 - 📫 How to reach me ...
 mail id - yashwanthmantha1@gmail.com 
 

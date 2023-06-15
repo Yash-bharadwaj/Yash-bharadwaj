@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yashwanth Bharadwaj
-- 👀 I’m  Full Stack Developer (MERN)
+- 👀 Full Stack Developer (MERN) from India 🇮🇳 🇮🇳 
 - Freelancer / Instructor / Graphic Designer
 - 📫 How to reach me ...
-- mail id - yashwanthmantha1@gmail.com 
-- ☻instagram : @yash._.bharadwaj 
+- mail Me - yashwanthmantha1@gmail.com 
+- Instagram : @yash._.bharadwaj 
  

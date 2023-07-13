@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yashwanth Bharadwaj
-- 👀 Full Stack Developer (MERN) from India 🇮🇳 🇮🇳 
+- 👀 A Passionate Front-End Developer from India 🇮🇳 🇮🇳 
 - Freelancer / Instructor .
 - 📫 How to reach me ...
 - mail Me - yashwanthmantha1@gmail.com 

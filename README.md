@@ -1,5 +1,6 @@
+![linkedinbannerYash](https://github.com/user-attachments/assets/e9e4f5b2-cab2-4231-b9bf-fdcf683016eb)
 
-![linkedinbanner](https://github.com/Yash-bharadwaj/Yash-bharadwaj/assets/86095452/36c4ff85-d6b9-439d-b1b4-e7d81dff3d28)
+
 
 
 <h1 align="center"> A passionate frontend developer from India</h1>
